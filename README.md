@@ -10,6 +10,11 @@ Bu proje, Sanayi ve Teknoloji Bakanlığı’nın Millî Teknoloji Hamlesi vizyo
 
 Bu proje, meme kanseri hastalığının tespiti ve sınıflandırılması için klasik makine öğrenmesi ve derin öğrenme modellerini kullanarak yapay zekâ tabanlı bir karar destek sistemi geliştirmeyi hedefler. Wisconsin Breast Cancer (Diagnostic) veri seti kullanılmıştır.
 
+
+
+https://github.com/user-attachments/assets/9bb872a0-c8f8-4837-99d3-a60b149ffbf8
+
+
 ----------
 
 ## 🔧 Kullanılan Teknolojiler
