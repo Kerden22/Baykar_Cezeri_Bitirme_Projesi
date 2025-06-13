@@ -1,0 +1,26 @@
+# Sanal ortam
+.venv/
+
+# Ortam değişkenleri
+.env
+
+# Çıktı dosyaları
+Rapor.docx
+yedek.py
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE ayar dosyaları
+.vscode/
+.idea/
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
